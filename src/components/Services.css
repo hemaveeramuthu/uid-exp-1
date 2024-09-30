@@ -1,0 +1,18 @@
+/* src/components/Services.css */
+.services-section {
+    padding: 2em;
+  }
+  
+  .service-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .service {
+    width: 30%;
+  }
+  
+  .service h3 {
+    margin-top: 0;
+  }
+  
