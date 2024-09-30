@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uid-exp-1/static/css/main.4c5004ed.css",
+    "main.js": "/uid-exp-1/static/js/main.847446ee.js",
+    "index.html": "/uid-exp-1/index.html",
+    "main.4c5004ed.css.map": "/uid-exp-1/static/css/main.4c5004ed.css.map",
+    "main.847446ee.js.map": "/uid-exp-1/static/js/main.847446ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5004ed.css",
+    "static/js/main.847446ee.js"
+  ]
+}
